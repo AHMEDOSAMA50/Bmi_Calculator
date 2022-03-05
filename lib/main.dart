@@ -26,7 +26,7 @@ class BmiCalculator extends StatefulWidget {
 class _BmiCalculatorState extends State<BmiCalculator> {
   late int slidervalue1 = 160;
   late int slidervalue2 = 95;
-  late int selectedcard ;
+  late int selectedcard =0 ;
 
 
   String Calculatebmi(int height, int weight) {
