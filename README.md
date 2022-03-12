@@ -26,7 +26,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <p align="center">
-<img src="https://github.com/AHMEDOSAMA50/Bmi_Calculator/blob/main/assets/images/Screenshot_20220312_172601.png" width="300" height="600" />
+<img src="https://github.com/AHMEDOSAMA50/Bmi_Calculator/blob/main/assets/images/Screenshot_20220312_172601.png" width="400" height="800" />
  </p>
 
 
