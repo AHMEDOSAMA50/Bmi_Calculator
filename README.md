@@ -1,6 +1,6 @@
 #describtion
 
-BMI Calculator App with flutter in dart language.you wanna check you health state?!..go ahead and use our app to measure your bmi 
+BMI Calculator App with flutter in dart language. you wanna check you health state?!..go ahead and use our app to measure your bmi 
 rate .
 - Severe Thinness	       BMI < 16
 - Moderate Thinness	     BMI 16 - 17
