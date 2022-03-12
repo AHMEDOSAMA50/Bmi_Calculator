@@ -2,14 +2,14 @@
 
 BMI Calculator App with flutter in dart language. you wanna check you health state?!..go ahead and use our app to measure your bmi 
 rate .
-- Severe Thinness	       BMI < 16
-- Moderate Thinness	     BMI 16 - 17
-- Mild Thinness	         BMI 17 - 18.5
-- Normal	               BMI 18.5 - 25
-- Overweight	           BMI 25 - 30
-- Obese Class I	         BMI 30 - 35
-- Obese Class II	       BMI 35 - 40
-- Obese Class III	       BMI > 40
+- Severe Thinness	               BMI < 16
+- Moderate Thinness	             BMI 16 - 17
+- Mild Thinness	                 BMI 17 - 18.5
+- Normal	                       BMI 18.5 - 25
+- Overweight	                   BMI 25 - 30
+- Obese Class I	                 BMI 30 - 35
+- Obese Class II	               BMI 35 - 40
+- Obese Class III	               BMI > 40
 
 ## Getting Started
 
